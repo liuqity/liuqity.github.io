@@ -1,6 +1,6 @@
 # Basic
 title: Qi 
-subtitle: A website for Qi
+subtitle: A blog for Qi
 #welcome_message: <a href="https://www.google.com" target="_blank">Welcome</a>
 description: All of life is an act of letting go, but what hurts the most is not taking a moment to say goodbye.
 #Every single day without dancing is one day we betrayed of life.
@@ -38,11 +38,11 @@ comment:
     
 # Social
 social:
-    weibo: 
-    github: 
-    twitter: 
-    gplus: 
-    mail: 
+    weibo: 1
+    github: 1
+    twitter: 1
+    gplus: 1
+    mail: 1
 
 # Google Analytics
 ga:
